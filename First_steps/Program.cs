@@ -26,7 +26,14 @@ namespace First_steps
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hellogdfg World!");
+			int x = 2;
+
+			int y = 1;
+
+			int z = (x-y);
+
+
+			Console.WriteLine ("Переменная z равна {0}",z);
 		}
 	}
 }
