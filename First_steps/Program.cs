@@ -26,7 +26,7 @@ namespace First_steps
 	{
 		public static void Main (string[] args)
 		{
-			int x = 26;
+			int x = 17;
 
 			int y = 17;
 
