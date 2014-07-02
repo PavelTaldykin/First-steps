@@ -26,11 +26,11 @@ namespace First_steps
 	{
 		public static void Main (string[] args)
 		{
-			int x = 26;
+			double x = 26.2;
 
-			int y = 17;
+			double y = 17.1;
 
-			int z = (x-y);
+			double z = (x-y);
 
 
 			Console.WriteLine ("Переменная z равна {0}",z);
