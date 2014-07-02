@@ -26,7 +26,7 @@ namespace First_steps
 	{
 		public static void Main (string[] args)
 		{
-			double x = 26.2;
+			double x = 26.7;
 
 			double y = 17.1;
 
